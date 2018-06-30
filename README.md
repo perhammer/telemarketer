@@ -1,5 +1,4 @@
-
-# Telemarketer
+# Telemarketer ☠
 
 Sick of getting nuisance calls? Problem not solved by apps like TrueCaller ([iOS](https://itunes.apple.com/in/app/truecaller-number-search-spam/id448142450) / [Android](https://play.google.com/store/apps/details?id=com.truecaller&hl=en_GB) ), or just fancy taking a more organic, hands-on approach to blocking calls? Now you can!
 
